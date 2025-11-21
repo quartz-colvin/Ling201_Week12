@@ -383,6 +383,23 @@ knitr::include_graphics("./images/phonetic_environments.png")
 
 ]
 
+
+
+---
+
+# Summary
+
+**Concept groups:**
+
+- Minimal pairs, phonemes, contrastive distribution
+
+- complementary distribution, allophones
+
+**Phonemes:** one sound in the minds of speakers
+
+**Allophones:** different realizations of one sound (speakers can't always tell the difference between them)
+
+
 ---
 
 # Coming up: Phonology II !
